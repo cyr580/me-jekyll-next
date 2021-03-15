@@ -84,7 +84,7 @@ keywords: "cyr580, xigua"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+#rss:
 
 # Specify the date when the site was setup
 since: 2003
@@ -211,10 +211,10 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   Discord: https://discord.gg/K7tVe3Sw
   GitHub: https://github.com/cyr580
-  Twitter: https://twitter.com/cncyrcom/
+  Twitter: https://twitter.com/cncyrcom
 
 # Social Links Icons
 # Icon Mapping:
