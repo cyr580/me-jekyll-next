@@ -2,7 +2,6 @@
 layout: post
 title: ios14越狱美化
 categories: ios14
-date: 2021-04-01
 description: 
 sticky: 1
 keywords: ios14
