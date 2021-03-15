@@ -212,7 +212,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
-  #Discord: https://discord.gg/K7tVe3Sw
+  Discord: https://discord.gg/K7tVe3Sw
   GitHub: https://github.com/cyr580
   Twitter: https://twitter.com/cncyrcom/
 
@@ -227,6 +227,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
+  Discord: discord
   #Weibo: weibo
 
 
