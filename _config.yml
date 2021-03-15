@@ -227,7 +227,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  Discord: discord
+  Discord: fa-heart
   #Weibo: weibo
 
 
